@@ -5,7 +5,6 @@ Nils Rydh
 Software development
 IT University, Copenhagen
 
-
 ## Web developer 2006-2008
 Systemfactory A/S [www](http://www.systemfactory.dk/)
 ### LånLet [www](http://www.laanlet.dk)
@@ -25,7 +24,7 @@ Udvikling af kortvisning til Movias hjemmeside og app.
 Tech: ArcGIS, REST services, Python
 ### Danmarks Miljøportal
 Arkitekt på et større projekt. Infrastruktur til danske miljødata, med brugergrænseflade og services. 
-Tech: .NET, SQL Server
+Tech: .NET, SQL Server, test, performance optimizations
 ## Technology Advocate 2013-
 Informi GIS
-Tech: Jekyll, node.js
+Tech: Jekyll, node.js, responsive design
